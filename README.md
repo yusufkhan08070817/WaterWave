@@ -13,8 +13,8 @@ A customizable water wave loader library for Android, written in Kotlin. This li
 
 ## Demo
 
-![Demo](demo.gif)
-![]([name-of-giphy.gif](https://raw.githubusercontent.com/yusufkhan08070817/WaterWave/master/data%20type.gif))
+![Demo](https://raw.githubusercontent.com/yusufkhan08070817/WaterWave/master/data%20type.gif)
+
 ### This library provides a simple and elegant water wave loader animation for Android applications. Easily integrate it into your projects using the following dependency:
 ~~~
 dependencies {
