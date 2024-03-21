@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:scaleType="centerCrop"
+            android:scaleX="5"
+
+            android:alpha="0.6"
+            android:id="@+id/waterwave1"
+            android:src="@drawable/waterwave1" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:scaleType="centerCrop"
+            android:scaleX="5"
+
+            android:alpha="0.3"
+            android:id="@+id/waterwave2"
+            android:src="@drawable/waterwave2" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:scaleType="centerCrop"
+            android:scaleX="5"
+
+            android:alpha="0.6"
+            android:id="@+id/waterwave3"
+            android:src="@drawable/waterwave3" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:scaleType="centerCrop"
+            android:scaleX="5"
+
+            android:alpha="0.3"
+            android:id="@+id/waterwave4"
+            android:src="@drawable/waterwave4" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:src="@drawable/resct"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/restwater"
+            android:layout_marginBottom="10dp"
+            />
+    </RelativeLayout>
+</RelativeLayout>
